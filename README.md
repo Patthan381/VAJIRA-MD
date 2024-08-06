@@ -1,6 +1,6 @@
 <div align="center">
      
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ＶＡＪＩＲＡ+ＭＤ+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=U M A R I+ＭＤ+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
 
 ## FIXING  ALL ERRORS IN NEXT UPDATE WAIT..... 
 
@@ -14,7 +14,7 @@
 
 <p align="center">
 <a href="https://github.com/VajiraTech">
-    <img src="https://telegra.ph/file/235d945df230d71f246b6.jpg"  width="700px">
+    <img src="[https://telegra.ph/file/235d945df230d71f246b6.jpg](https://telegra.ph/file/485aa94439512454a15c8.jpg)"  width="700px">
 </a>
 <hr>
 
@@ -31,11 +31,11 @@
 
 ## CONTACT OWNER
 
-[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/94719199757)
+[![vajira]([https://telegra.ph/file/99460844d012cad1b7ee4.jpg]([https://telegra.ph/file/485aa94439512454a15c8.jpg](https://telegra.ph/file/485aa94439512454a15c8.jpg)))](https://wa.me/94719199757)
 
 ## JOIN SUPPORT GROUP
 
-[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://chat.whatsapp.com/D6w6Qy5yrhp7MmfNcprbO3)
+[![vajira]([https://telegra.ph/file/99460844d012cad1b7ee4.jpg](https://telegra.ph/file/485aa94439512454a15c8.jpg))](https://chat.whatsapp.com/D6w6Qy5yrhp7MmfNcprbO3)
 
 ## MY YT CHANNEL
 
